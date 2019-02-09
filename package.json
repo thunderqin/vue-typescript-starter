@@ -1,8 +1,8 @@
 {
-  "name": "vue-typescript-starter",
+  "name": "tencent-huoguo-vue-starter",
   "version": "1.0.0",
-  "description": "vue-typescript-starter",
-  "author": "ws456999 <ruiru5921@sina.com>",
+  "description": "tencent-huoguo-vue-starter",
+  "author": "grayqin",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
